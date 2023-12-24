@@ -11,7 +11,7 @@ Here are some highlights of my expertise:
 - Trained and fine-tuned machine learning models for diverse applications, including customer churn prediction and recommendation systems.
 - Developed custom email spam checker to ensure communication integrity.
 - Utilized QuickSight, Athena, and PowerBI for data visualization and insights dissemination.
-- Collaborated with data engineering to reduce query time and streamline processes.
+- Adopted modern data engineering techniques to reduce query time and streamlining processes.
 - Proficiently worked with cloud services like AWS, GCP, and Azure to deploy scalable data solutions.
 - Created automation pipelines through Python scripts, enhancing operational efficiency.
 - Demonstrated proficiency in working with POSIX-compliant systems such as Debian, Fedora and RedHat.
